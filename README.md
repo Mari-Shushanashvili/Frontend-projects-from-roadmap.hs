@@ -23,4 +23,6 @@
 
 [cookie consent](https://roadmap.sh/projects/cookie-consent)
 
+[accordion](https://roadmap.sh/projects/accordion)
+
 [restricted textarea](https://roadmap.sh/projects/restricted-textarea)
