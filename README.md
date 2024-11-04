@@ -27,5 +27,7 @@
 
 [accordion](https://roadmap.sh/projects/accordion)
 
+[age calculator](https://roadmap.sh/projects/age-calculator)
+
 [flash cards](https://roadmap.sh/projects/flash-cards)
 
