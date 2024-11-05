@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Temperature Converter</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="global.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Temperature Converter</h1>
+    <p>Enter the temperature, select units, and submit</p>
+    <div class="buttons">
+      <input
+        type="text"
+        name="temperature"
+        id="temperature"
+        class="temperature"
+        placeholder="0.00"
+      />
+      <!-- From Unit Dropdown -->
+      <div class="dropdown">
+        <button id="from-dropdown-btn" class="dropdown-btn">From Unit</button>
+        <ul id="from-dropdown-options" class="dropdown-options">
+          <li class="dropdown-item">Celsius</li>
+          <li class="dropdown-item">Fahrenheit</li>
+          <li class="dropdown-item">Kelvin</li>
+        </ul>
+      </div>
+      <!-- To Unit Dropdown -->
+      <div class="dropdown">
+        <button id="to-dropdown-btn" class="dropdown-btn">To Unit</button>
+        <ul id="to-dropdown-options" class="dropdown-options">
+          <li class="dropdown-item">Celsius</li>
+          <li class="dropdown-item">Fahrenheit</li>
+          <li class="dropdown-item">Kelvin</li>
+        </ul>
+      </div>
+      <button id="submit" class="submit" disabled>Convert</button>
+    </div>
+    <br>
+    <div class="result" id="result"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
