@@ -1,2 +1,2 @@
-I created an accordion component that displays a list of questions or headings.
-When a user clicks on a question, its corresponding answer or content section will expand while collapsing any previously opened section. 
+I created a custom dropdown menu that lets users select an item from a list.
+The dropdown should have a default state showing a placeholder text, an open state revealing all options, and a selected state where the chosen item is displayed.
