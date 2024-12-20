@@ -15,7 +15,7 @@
    I designed a responsive image gallery with a clean layout.
 
 4. **[Portfolio Website](https://roadmap.sh/projects/portfolio-website)**  
-   I created a personal portfolio to display my projects and skills.
+   I created a personal portfolio to display my projects, skills and experience.
 
 ---
 
